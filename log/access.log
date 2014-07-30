@@ -1,0 +1,2 @@
+[2014-07-10 02-05-55] HTTP code 404: Page not found. Missing template '…\xampp\htdocs\nette\sandbox\app\templates\Homepage\default.latte'. in F:\xampp\htdocs\nette\sandbox\vendor\nette\application\src\Application\UI\Presenter.php:700  @  http://localhost/nette/sandbox/www/
+[2014-07-10 02-05-57] HTTP code 404: Page not found. Missing template '…\xampp\htdocs\nette\sandbox\app\templates\Homepage\default.latte'. in F:\xampp\htdocs\nette\sandbox\vendor\nette\application\src\Application\UI\Presenter.php:700  @  http://localhost/nette/sandbox/www/
